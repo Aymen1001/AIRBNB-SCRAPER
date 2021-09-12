@@ -1,15 +1,16 @@
 # AIRBNB-SCRAPER
 
-![airbnb](https://user-images.githubusercontent.com/83681204/133006085-dc4110ef-1ad3-4b13-b5f9-7c0811d92bc1.jpg)
+![airbnb](https://user-images.githubusercontent.com/83681204/133006374-e22794ae-9eaa-4244-8ac9-916fdd872a73.png)
+
 <br>
-AIRBNB scraper can scrape data for any location from the popular airbnb website, it's built using SELENIUM and python and provide the following informations in csv file :
+AIRBNB scraper can collect rent offres data for any location from the popular airbnb website, it's built using SELENIUM and python and provide the following informations in csv file :
 <ul>
   <li>Place Title</li>
   <li>Place Location</li>
   <li>Place Features</li>
   <li>Place Evaluation</li>
   <li>Place comments</li>
-  <li>Place RLink</li>
+  <li>Place Link</li>
 </ul>
 <br>
 To run the code you need to :
