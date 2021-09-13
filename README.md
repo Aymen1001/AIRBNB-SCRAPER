@@ -24,4 +24,3 @@ Excute the command in the terminal/cmd :
 <h3>python scraper.py</h3>
 
 
-
